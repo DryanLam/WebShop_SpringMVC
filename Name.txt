@@ -1,6 +1,4 @@
-﻿Name: Lâm Tấn Dũng
-Year: 1987
-
+﻿Author: Dryan
 Project: Shopping Store Online
 
 Username/Password:
